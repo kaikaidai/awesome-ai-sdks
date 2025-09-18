@@ -83,7 +83,7 @@ Atla automatically detects recurring errors in your AI agents. It surfaces these
 <!-- ### Description -->
 
 ### Links
-- [Web](https://www.atla-ai.com/)
+- [Web](https://www.atla-ai.com/?utm_source=e2b&utm_medium=github)
 - [GitHub](https://github.com/atla-ai/atla-insights-sdk)
 - [Discord](https://discord.com/invite/qFCMgkGwUK)
 
